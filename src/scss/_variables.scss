@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,600,700|Roboto:400,700&display=swap");
+
+$color-primary: #0062ff;
+$color-secondary: #ffc542;
+$color-success: #3dd598;
+$color-error: #fc5a5a;
+$color-white: #fafafb;
+
+$colors: (
+  "primary": $color-primary,
+  "secondary": $color-secondary,
+  "success": $color-success,
+  "error": $color-error
+);
+
+// Fonts
+$font-primary: "Poppins", "Roboto", sans-serif;
+$font-secondary: "Roboto", sans-serif;
